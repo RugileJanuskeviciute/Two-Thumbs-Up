@@ -1,2 +1,2 @@
 # Two-Thumbs-Up
-Click <a href=inesreisx.github.io/Two-Thumbs-Up/>HERE</a> to view it!
+Click <a href=https://inesreisx.github.io/Two-Thumbs-Up//>HERE</a> to view it!
